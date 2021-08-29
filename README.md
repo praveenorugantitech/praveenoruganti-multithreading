@@ -1,7 +1,5 @@
 # MultiThreading Course
 
-
-
 - [Multithreading](https://praveenorugantitech.blogspot.com/2019/08/multithreading.html){:target="_blank"}
 - [Thread Lifecycle](https://praveenorugantitech.blogspot.com/2017/06/thread-lifecycle.html){:target="_blank"}
 - [CountDownLatch](https://praveenorugantitech.blogspot.com/2019/08/countdownlatch.html){:target="_blank"}
